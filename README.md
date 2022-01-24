@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Giuliana. I have 27y', girl from Rio, sagittarius soul and ✨ priiiiiiiide. 
-- 👀 I'm looking forward to become a python programmer. Just getting started but I'm a fast learner!
+- 👋 Hi, my name is Giuliana. Girl from Rio, sagittarius soul and ✨ priiiiiiiide. 
+- 👀 Lifelong learning, tech addict.
 - 📫 giu.jong@hotmail.com
 
 <!---
